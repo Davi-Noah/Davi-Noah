@@ -11,5 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-noah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=davi-noah&icon=8&color=0)](https://visitcount.itsvg.in)
-
