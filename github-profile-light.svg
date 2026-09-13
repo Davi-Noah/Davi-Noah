@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="590" viewBox="0 0 1040 590" role="img" aria-labelledby="title desc">
+  <title id="title">Davi Noah — GitHub profile</title>
+  <desc id="desc">Terminal-inspired profile card for Davi Noah, Software Engineer and BI Specialist.</desc>
+  <style>
+    text { font-family: 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 14px; dominant-baseline: middle; }
+    .frame { fill: #fbfcf8; stroke: #d7ddd3; }
+    .muted { fill: #69736d; }
+    .art { fill: #202823; }
+    .prompt { fill: #466f20; font-weight: 700; }
+    .command { fill: #0969da; }
+    .label { fill: #9a4a00; }
+    .value { fill: #174f87; }
+    .rule { fill: #c9d1cc; }
+    .section { fill: #303a34; font-weight: 700; }
+    .accent { fill: #4d7c21; }
+    .cursor { fill: #466f20; animation: blink 1.1s steps(1) infinite; }
+    .line { opacity: 0; animation: enter .38s ease-out forwards; }
+    .l1 { animation-delay: .10s } .l2 { animation-delay: .17s } .l3 { animation-delay: .24s }
+    .l4 { animation-delay: .31s } .l5 { animation-delay: .38s } .l6 { animation-delay: .45s }
+    .l7 { animation-delay: .52s } .l8 { animation-delay: .59s } .l9 { animation-delay: .66s }
+    .l10 { animation-delay: .73s } .l11 { animation-delay: .80s } .l12 { animation-delay: .87s }
+    .l13 { animation-delay: .94s } .l14 { animation-delay: 1.01s } .l15 { animation-delay: 1.08s }
+    @keyframes enter { from { opacity: 0; transform: translateX(-7px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .line { opacity: 1; animation: none; } .cursor { animation: none; } }
+  </style>
+  <rect class="frame" x=".5" y=".5" width="1039" height="589" rx="18"/>
+  <circle cx="24" cy="23" r="5" fill="#e5534b"/><circle cx="42" cy="23" r="5" fill="#d5a51b"/><circle cx="60" cy="23" r="5" fill="#2da44e"/>
+  <text x="520" y="24" text-anchor="middle" class="muted" font-size="12">davi-noah — profile</text>
+  <g class="art" aria-hidden="true">
+    <text x="42" y="92">██████╗  ███╗   ██╗</text>
+    <text x="42" y="114">██╔══██╗ ████╗  ██║</text>
+    <text x="42" y="136">██║  ██║ ██╔██╗ ██║</text>
+    <text x="42" y="158">██║  ██║ ██║╚██╗██║</text>
+    <text x="42" y="180">██████╔╝ ██║ ╚████║</text>
+    <text x="42" y="202">╚═════╝  ╚═╝  ╚═══╝</text>
+    <text x="42" y="240" class="accent">software  •  data  •  education</text>
+    <text x="42" y="282" class="muted">      ╭─────────────╮</text>
+    <text x="42" y="304" class="muted">      │  clarity &amp;  │</text>
+    <text x="42" y="326" class="muted">      │   purpose    │</text>
+    <text x="42" y="348" class="muted">      ╰──────┬──────╯</text>
+    <text x="42" y="370" class="muted">             │</text>
+    <text x="42" y="392" class="muted">       ┌─────┼─────┐</text>
+    <text x="42" y="414" class="muted">       ▼     ▼     ▼</text>
+    <text x="42" y="436">      API    BI    WEB</text>
+  </g>
+  <g transform="translate(365 0)">
+    <g class="line l1"><text x="0" y="70" class="prompt">Davi-Noah@github</text><text x="139" y="70" class="rule">:~$</text><text x="174" y="70" class="command">whoami</text></g>
+    <g class="line l2"><text x="0" y="103" class="label">Name</text><text x="122" y="103" class="rule">............................</text><text x="370" y="103" class="value">Davi Noah</text></g>
+    <g class="line l3"><text x="0" y="126" class="label">Role</text><text x="122" y="126" class="rule">............................</text><text x="370" y="126" class="value">Software Engineer · BI Specialist</text></g>
+    <g class="line l4"><text x="0" y="149" class="label">Location</text><text x="122" y="149" class="rule">........................</text><text x="370" y="149" class="value">Fortaleza, CE · Brazil</text></g>
+    <g class="line l5"><text x="0" y="172" class="label">Education</text><text x="122" y="172" class="rule">.......................</text><text x="370" y="172" class="value">Computer Science · UNIFOR</text></g>
+    <g class="line l6"><text x="0" y="216" class="section">── stack</text><text x="72" y="216" class="rule">────────────────────────────────────────────</text></g>
+    <g class="line l7"><text x="0" y="249" class="label">Backend</text><text x="122" y="249" class="rule">.........................</text><text x="348" y="249" class="value">Python · FastAPI · Go · Node.js</text></g>
+    <g class="line l8"><text x="0" y="272" class="label">Frontend</text><text x="122" y="272" class="rule">........................</text><text x="340" y="272" class="value">React · TypeScript · Tailwind CSS</text></g>
+    <g class="line l9"><text x="0" y="295" class="label">Data</text><text x="122" y="295" class="rule">............................</text><text x="370" y="295" class="value">Power BI · DAX · Power Query · SQL</text></g>
+    <g class="line l10"><text x="0" y="318" class="label">Tools</text><text x="122" y="318" class="rule">...........................</text><text x="363" y="318" class="value">Docker · Git · VS Code</text></g>
+    <g class="line l11"><text x="0" y="362" class="section">── building</text><text x="95" y="362" class="rule">─────────────────────────────────────────</text></g>
+    <g class="line l12"><text x="0" y="395" class="label">01</text><text x="38" y="395" class="value">School Management API</text><text x="250" y="395" class="muted">— backend &amp; API design</text></g>
+    <g class="line l13"><text x="0" y="418" class="label">02</text><text x="38" y="418" class="value">Dashboards that explain</text><text x="274" y="418" class="muted">— analytics &amp; decisions</text></g>
+    <g class="line l14"><text x="0" y="441" class="label">03</text><text x="38" y="441" class="value">Skin Scout</text><text x="151" y="441" class="muted">— React, Node.js &amp; APIs</text></g>
+    <g class="line l15"><text x="0" y="485" class="section">── contact</text><text x="87" y="485" class="rule">──────────────────────────────────────────</text></g>
+    <text x="0" y="518" class="label">GitHub</text><text x="122" y="518" class="rule">.........................</text><text x="348" y="518" class="value">github.com/Davi-Noah</text>
+    <text x="0" y="541" class="label">LinkedIn</text><text x="122" y="541" class="rule">.......................</text><text x="334" y="541" class="value">linkedin.com/in/davi-noah-59164a269</text>
+    <rect x="0" y="562" width="9" height="16" rx="1" class="cursor"/>
+  </g>
+</svg>
