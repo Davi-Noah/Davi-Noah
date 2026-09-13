@@ -35,29 +35,29 @@
     <text x="42" y="180">██████╔╝ ██║ ╚████║</text>
     <text x="42" y="202">╚═════╝  ╚═╝  ╚═══╝</text>
     <text x="42" y="240" class="accent">software  •  data  •  education</text>
-    <text x="42" y="282" class="muted">      ╭─────────────╮</text>
-    <text x="42" y="304" class="muted">      │  clarity &amp;  │</text>
-    <text x="42" y="326" class="muted">      │   purpose    │</text>
-    <text x="42" y="348" class="muted">      ╰──────┬──────╯</text>
-    <text x="42" y="370" class="muted">             │</text>
-    <text x="42" y="392" class="muted">       ┌─────┼─────┐</text>
-    <text x="42" y="414" class="muted">       ▼     ▼     ▼</text>
-    <text x="42" y="436">      API    BI    WEB</text>
+    <text x="42" y="282" class="accent">focus</text>
+    <text x="42" y="308" class="muted">├── backend systems</text>
+    <text x="42" y="332" class="muted">├── web applications</text>
+    <text x="42" y="356" class="muted">└── data analytics</text>
+    <text x="42" y="400" class="accent">core</text>
+    <text x="42" y="426">├── Java / Spring</text>
+    <text x="42" y="450">├── React / Angular</text>
+    <text x="42" y="474">└── Power BI / SQL</text>
   </g>
   <g transform="translate(365 0)">
     <g class="line l1"><text x="0" y="70" class="prompt">Davi-Noah@github</text><text x="139" y="70" class="rule">:~$</text><text x="174" y="70" class="command">whoami</text></g>
     <g class="line l2"><text x="0" y="103" class="label">Name</text><text x="122" y="103" class="rule">............................</text><text x="370" y="103" class="value">Davi Noah</text></g>
     <g class="line l3"><text x="0" y="126" class="label">Role</text><text x="122" y="126" class="rule">............................</text><text x="370" y="126" class="value">Software Engineer · BI Specialist</text></g>
     <g class="line l4"><text x="0" y="149" class="label">Location</text><text x="122" y="149" class="rule">........................</text><text x="370" y="149" class="value">Fortaleza, CE · Brazil</text></g>
-    <g class="line l5"><text x="0" y="172" class="label">Education</text><text x="122" y="172" class="rule">.......................</text><text x="370" y="172" class="value">Computer Science · UNIFOR</text></g>
+    <g class="line l5"><text x="0" y="172" class="label">Education</text><text x="122" y="172" class="rule">.......................</text><text x="370" y="172" class="value">Computer Science</text></g>
 
     <g class="line l6"><text x="0" y="216" class="section">── stack</text><text x="72" y="216" class="rule">────────────────────────────────────────────</text></g>
-    <g class="line l7"><text x="0" y="249" class="label">Backend</text><text x="122" y="249" class="rule">.........................</text><text x="348" y="249" class="value">Python · FastAPI · Go · Node.js</text></g>
-    <g class="line l8"><text x="0" y="272" class="label">Frontend</text><text x="122" y="272" class="rule">........................</text><text x="340" y="272" class="value">React · TypeScript · Tailwind CSS</text></g>
+    <g class="line l7"><text x="0" y="249" class="label">Backend</text><text x="122" y="249" class="rule">.........................</text><text x="348" y="249" class="value">Java · Spring Boot · Python · FastAPI</text></g>
+    <g class="line l8"><text x="0" y="272" class="label">Frontend</text><text x="122" y="272" class="rule">........................</text><text x="340" y="272" class="value">React · Angular · TypeScript</text></g>
     <g class="line l9"><text x="0" y="295" class="label">Data</text><text x="122" y="295" class="rule">............................</text><text x="370" y="295" class="value">Power BI · DAX · Power Query · SQL</text></g>
-    <g class="line l10"><text x="0" y="318" class="label">Tools</text><text x="122" y="318" class="rule">...........................</text><text x="363" y="318" class="value">Docker · Git · VS Code</text></g>
+    <g class="line l10"><text x="0" y="318" class="label">Infra</text><text x="122" y="318" class="rule">...........................</text><text x="363" y="318" class="value">Docker · MySQL · SQLite · Git</text></g>
 
-    <g class="line l11"><text x="0" y="362" class="section">── building</text><text x="95" y="362" class="rule">─────────────────────────────────────────</text></g>
+    <g class="line l11"><text x="0" y="362" class="section">── projects</text><text x="95" y="362" class="rule">─────────────────────────────────────────</text></g>
     <g class="line l12"><text x="0" y="395" class="label">01</text><text x="38" y="395" class="value">School Management API</text><text x="250" y="395" class="muted">— backend &amp; API design</text></g>
     <g class="line l13"><text x="0" y="418" class="label">02</text><text x="38" y="418" class="value">Dashboards that explain</text><text x="274" y="418" class="muted">— analytics &amp; decisions</text></g>
     <g class="line l14"><text x="0" y="441" class="label">03</text><text x="38" y="441" class="value">Skin Scout</text><text x="151" y="441" class="muted">— React, Node.js &amp; APIs</text></g>
@@ -68,4 +68,3 @@
     <rect x="0" y="562" width="9" height="16" rx="1" class="cursor"/>
   </g>
 </svg>
-
