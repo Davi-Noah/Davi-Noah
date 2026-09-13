@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="590" viewBox="0 0 1040 590" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="640" viewBox="0 0 1040 640" role="img" aria-labelledby="title desc">
   <title id="title">Davi Noah — GitHub profile</title>
   <desc id="desc">Terminal-inspired profile card for Davi Noah, Software Engineer and BI Specialist.</desc>
   <style>
@@ -20,11 +20,12 @@
     .l7 { animation-delay: .52s } .l8 { animation-delay: .59s } .l9 { animation-delay: .66s }
     .l10 { animation-delay: .73s } .l11 { animation-delay: .80s } .l12 { animation-delay: .87s }
     .l13 { animation-delay: .94s } .l14 { animation-delay: 1.01s } .l15 { animation-delay: 1.08s }
+    .l16 { animation-delay: 1.15s } .l17 { animation-delay: 1.22s }
     @keyframes enter { from { opacity: 0; transform: translateX(-7px); } to { opacity: 1; transform: translateX(0); } }
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) { .line { opacity: 1; animation: none; } .cursor { animation: none; } }
   </style>
-  <rect class="frame" x=".5" y=".5" width="1039" height="589" rx="18"/>
+  <rect class="frame" x=".5" y=".5" width="1039" height="639" rx="18"/>
   <circle cx="24" cy="23" r="5" fill="#e5534b"/><circle cx="42" cy="23" r="5" fill="#d5a51b"/><circle cx="60" cy="23" r="5" fill="#2da44e"/>
   <text x="520" y="24" text-anchor="middle" class="muted" font-size="12">davi-noah — profile</text>
   <g class="art" aria-hidden="true">
@@ -36,9 +37,9 @@
     <text x="42" y="202">╚═════╝  ╚═╝  ╚═══╝</text>
     <text x="42" y="240" class="accent">software  •  data  •  education</text>
     <text x="42" y="282" class="accent">focus</text>
-    <text x="42" y="308" class="muted">├── backend systems</text>
-    <text x="42" y="332" class="muted">├── web applications</text>
-    <text x="42" y="356" class="muted">└── data analytics</text>
+    <text x="42" y="308" class="muted">├── software engineering</text>
+    <text x="42" y="332" class="muted">├── backend systems</text>
+    <text x="42" y="356" class="muted">└── business intelligence</text>
     <text x="42" y="400" class="accent">core</text>
     <text x="42" y="426">├── Java / Spring</text>
     <text x="42" y="450">├── React / Angular</text>
@@ -54,14 +55,16 @@
     <g class="line l7"><text x="0" y="249" class="label">Backend</text><text x="122" y="249" class="rule">.........................</text><text x="348" y="249" class="value">Java · Spring Boot · Python · FastAPI</text></g>
     <g class="line l8"><text x="0" y="272" class="label">Frontend</text><text x="122" y="272" class="rule">........................</text><text x="340" y="272" class="value">React · Angular · TypeScript</text></g>
     <g class="line l9"><text x="0" y="295" class="label">Data</text><text x="122" y="295" class="rule">............................</text><text x="370" y="295" class="value">Power BI · DAX · Power Query · SQL</text></g>
-    <g class="line l10"><text x="0" y="318" class="label">Infra</text><text x="122" y="318" class="rule">...........................</text><text x="363" y="318" class="value">Docker · MySQL · SQLite · Git</text></g>
+    <g class="line l10"><text x="0" y="318" class="label">Infra</text><text x="122" y="318" class="rule">...........................</text><text x="363" y="318" class="value">Relational Databases · Docker · Git</text></g>
     <g class="line l11"><text x="0" y="362" class="section">── projects</text><text x="95" y="362" class="rule">─────────────────────────────────────────</text></g>
-    <g class="line l12"><text x="0" y="395" class="label">01</text><text x="38" y="395" class="value">School Management API</text><text x="250" y="395" class="muted">— backend &amp; API design</text></g>
-    <g class="line l13"><text x="0" y="418" class="label">02</text><text x="38" y="418" class="value">Dashboards that explain</text><text x="274" y="418" class="muted">— analytics &amp; decisions</text></g>
-    <g class="line l14"><text x="0" y="441" class="label">03</text><text x="38" y="441" class="value">Skin Scout</text><text x="151" y="441" class="muted">— React, Node.js &amp; APIs</text></g>
-    <g class="line l15"><text x="0" y="485" class="section">── contact</text><text x="87" y="485" class="rule">──────────────────────────────────────────</text></g>
-    <text x="0" y="518" class="label">GitHub</text><text x="122" y="518" class="rule">.........................</text><text x="348" y="518" class="value">github.com/Davi-Noah</text>
-    <text x="0" y="541" class="label">LinkedIn</text><text x="122" y="541" class="rule">.......................</text><text x="334" y="541" class="value">linkedin.com/in/davi-noah-59164a269</text>
-    <rect x="0" y="562" width="9" height="16" rx="1" class="cursor"/>
+    <g class="line l12"><text x="0" y="395" class="label">01</text><text x="38" y="395" class="value">FlyMind</text><text x="135" y="395" class="muted">— real connectome simulation</text></g>
+    <g class="line l13"><text x="0" y="418" class="label">02</text><text x="38" y="418" class="value">GymRank</text><text x="135" y="418" class="muted">— offline-first strength PWA</text></g>
+    <g class="line l14"><text x="0" y="441" class="label">03</text><text x="38" y="441" class="value">School Management API</text><text x="250" y="441" class="muted">— backend &amp; API design</text></g>
+    <g class="line l15"><text x="0" y="464" class="label">04</text><text x="38" y="464" class="value">Analytics Dashboards</text><text x="240" y="464" class="muted">— BI &amp; data modeling</text></g>
+    <g class="line l16"><text x="0" y="487" class="label">05</text><text x="38" y="487" class="value">Skin Scout</text><text x="151" y="487" class="muted">— pricing data &amp; APIs</text></g>
+    <g class="line l17"><text x="0" y="531" class="section">── contact</text><text x="87" y="531" class="rule">──────────────────────────────────────────</text></g>
+    <text x="0" y="564" class="label">GitHub</text><text x="122" y="564" class="rule">.........................</text><text x="348" y="564" class="value">github.com/Davi-Noah</text>
+    <text x="0" y="587" class="label">LinkedIn</text><text x="122" y="587" class="rule">.......................</text><text x="334" y="587" class="value">linkedin.com/in/davi-noah-59164a269</text>
+    <rect x="0" y="608" width="9" height="16" rx="1" class="cursor"/>
   </g>
 </svg>
